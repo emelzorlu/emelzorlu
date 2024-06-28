@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Merhaba 👋, Ben, Emel Zorlu</h1>
-<h3 align="center">Frontend Developer, mobil developer, software developer olarak günün getirdiği yenilikleri takip ederek ve devamlı gelişerek yeni projeler tasarlamayı severim.Ekip çalışmalarında etkin rol almak isterim.  </h3>
+<h3 align="center">Frontend Developer, mobile developer, software developer olarak günün getirdiği yenilikleri takip ederek ve devamlı gelişerek yeni projeler tasarlamayı severim.Ekip çalışmalarında etkin rol almak isterim.  </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
